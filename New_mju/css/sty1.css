@@ -1,0 +1,83 @@
+a {
+    position: relative;
+    display: flex;
+    margin-left: 100px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+    height: 90vh;
+    background: url(https://f.ptcdn.info/412/008/000/1376494960-IMGP7337-o.jpg);
+    /* background: url(https://scontent.fbkk22-6.fna.fbcdn.net/v/t1.0-9/116427354_1661461967353486_1999360038459892288_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=UMQbbZfbprAAX8CjEhW&_nc_ht=scontent.fbkk22-6.fna&oh=a62b704c0294c140d5dddb5315e155e2&oe=600ADB47); */
+    background-size: cover;
+}
+
+.navbar {
+    justify-self: center;
+}
+
+footer {
+    width: 100%;
+    height: 70px;
+    margin-top: 100px;
+    background: rgb(237, 243, 243);
+    position: relative;
+    display: flex;
+    font-size: 15px;
+    /* margin: auto; */
+}
+
+footer p {
+    color: rgb(78, 77, 77);
+    /* margin-left: 100px;
+    padding-top: 60px; */
+    text-align: center;
+    margin: auto;
+
+
+}
+
+
+.con .fa {
+    margin-left: 200px;
+    padding-top: 50px;
+    font-size: 4rem;
+    font-size: 3rem;
+    margin-top: 30px;
+    cursor: pointer;
+    color: rgb(13, 14, 14);
+    margin-bottom: 70px;
+
+}
+
+
+.con .fa:hover {
+    margin-left: 200px;
+    padding-top: 50px;
+    font-size: 4rem;
+    font-size: 3rem;
+    margin-top: 30px;
+    cursor: pointer;
+    color: darkgreen;
+}
+
+/* footer h1{
+    background: rgb(250, 249, 249);
+    position: relative;
+    display: flex;
+    margin-left: 700px;
+    font-size: 15px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    
+
+} */
+
+.bg{
+    height: 120vh;
+    background: url(https://cdn.pixabay.com/photo/2015/12/08/00/26/desk-1081708_1280.jpg);
+}
